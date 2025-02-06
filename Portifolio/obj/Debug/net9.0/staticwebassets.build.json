@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CqYEhGrDeQ9WcJ3LUirTktEuqxEyjc7rha89YsVBb1g=",
+  "Hash": "rrtw2QnfgEd3ia7SkBK0JPMHY41CajCg1oOClukB6kc=",
   "Source": "Portifolio",
   "BasePath": "_content/Portifolio",
   "Mode": "Default",
@@ -1485,6 +1485,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\7.png"
+    },
+    {
+      "Identity": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\wwwroot\\images\\8.png",
+      "SourceId": "Portifolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\wwwroot\\",
+      "BasePath": "_content/Portifolio",
+      "RelativePath": "images/8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0uxoabbct6",
+      "Integrity": "SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8.png"
     },
     {
       "Identity": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\wwwroot\\js\\site.js",
@@ -3526,6 +3547,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-+ORePCMQpREJpBQBxsPYr37AAv5FJMEgTiXdxjASRq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.0uxoabbct6.png",
+      "AssetFile": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\wwwroot\\images\\8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 22:25:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0uxoabbct6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.png",
+      "AssetFile": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\wwwroot\\images\\8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68860"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Feb 2025 22:25:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SMf81vjvC25BFG95lb85DIJ026Rd3q7yq9ABuAEPD4I="
         }
       ]
     },

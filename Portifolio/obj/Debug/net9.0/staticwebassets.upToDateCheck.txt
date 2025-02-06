@@ -64,6 +64,7 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\6.png
 wwwroot\images\7.png
+wwwroot\images\8.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

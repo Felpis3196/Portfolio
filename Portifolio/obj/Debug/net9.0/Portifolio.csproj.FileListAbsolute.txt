@@ -100,3 +100,4 @@ C:\Users\fegri\OneDrive\Área de Trabalho\Portifolio\Portifolio\obj\Debug\net9.0
 C:\Users\fegri\OneDrive\Área de Trabalho\Portifolio\Portifolio\obj\Debug\net9.0\ref\Portifolio.dll
 C:\Users\fegri\OneDrive\Área de Trabalho\Portifolio\Portifolio\obj\Debug\net9.0\compressed\qvuen5bfnd-kqh57d879l.gz
 C:\Users\fegri\OneDrive\Área de Trabalho\Portifolio\Portifolio\obj\Debug\net9.0\compressed\x1rtb78re0-kqh57d879l.gz
+C:\Users\fegri\OneDrive\Área de Trabalho\Portifolio\Portifolio\obj\Debug\net9.0\Portifolio.sourcelink.json
