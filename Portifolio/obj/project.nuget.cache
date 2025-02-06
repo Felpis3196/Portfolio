@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "10igUj3d1xM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\Portifolio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fegri\\.nuget\\packages\\bootstrapicons.aspnetcore\\1.11.0\\bootstrapicons.aspnetcore.1.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
