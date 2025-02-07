@@ -269,21 +269,6 @@ footer {
     }
 }
 
-.autoRotate {
-    animation: autoRotateAnimation;
-    animation-timeline: view();
-}
-
-@keyframes autoRotateAnimation {
-    from {
-        transform: rotate(0deg);
-    }
-
-    to {
-        transform: rotate(360deg);
-    }
-}
-
 .autoShow {
     animation: autoShowAnimation both;
     animation-timeline: view(70% 5%);
