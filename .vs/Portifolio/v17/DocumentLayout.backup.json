@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F8AA895-D65B-43A1-80AF-20F24F9CF588}|Portifolio\\Portifolio.csproj|c:\\users\\fegri\\onedrive\\\u00E1rea de trabalho\\portifolio\\portifolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F8AA895-D65B-43A1-80AF-20F24F9CF588}|Portifolio\\Portifolio.csproj|solutionrelative:portifolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8AA895-D65B-43A1-80AF-20F24F9CF588}|Portifolio\\Portifolio.csproj|c:\\users\\fegri\\onedrive\\\u00E1rea de trabalho\\portifolio\\portifolio\\views\\home\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3F8AA895-D65B-43A1-80AF-20F24F9CF588}|Portifolio\\Portifolio.csproj|solutionrelative:portifolio\\views\\home\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\fegri\\OneDrive\\\u00C1rea de Trabalho\\Portifolio\\Portifolio\\Views\\Home\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "Portifolio\\Views\\Home\\Index.cshtml.css",
+              "ToolTip": "C:\\Users\\fegri\\OneDrive\\\u00C1rea de Trabalho\\Portifolio\\Portifolio\\Views\\Home\\Index.cshtml.css",
+              "RelativeToolTip": "Portifolio\\Views\\Home\\Index.cshtml.css",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAQwEwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T22:28:10.004Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Portifolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\fegri\\OneDrive\\\u00C1rea de Trabalho\\Portifolio\\Portifolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portifolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwFwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-06T10:59:30.63Z",
               "EditorCaption": ""
