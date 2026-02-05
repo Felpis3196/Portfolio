@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\Portifolio.csproj": {}
+    "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portfolio\\Portifolio\\Portifolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\Portifolio.csproj": {
+    "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portfolio\\Portifolio\\Portifolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\Portifolio.csproj",
+        "projectUniqueName": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portfolio\\Portifolio\\Portifolio.csproj",
         "projectName": "Portifolio",
-        "projectPath": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\Portifolio.csproj",
+        "projectPath": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portfolio\\Portifolio\\Portifolio.csproj",
         "packagesPath": "C:\\Users\\fegri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portifolio\\Portifolio\\obj\\",
+        "outputPath": "C:\\Users\\fegri\\OneDrive\\Área de Trabalho\\Portfolio\\Portifolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -74,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

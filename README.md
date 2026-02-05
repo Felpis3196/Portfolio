@@ -1,8 +1,23 @@
-# PT-BR
- # Portfólio
- Projeto desenvolvido com o objetivo de ser um espaço para mim mostrar meus trabalhos, meios de contato entre outras informações.
- Desenvolvido na minha plataforma principal sendo C# com .NET.
-# EN
-# Portfolio
- Project developed with the objective of being a place where i can show my work and ways to contact me and many other things as well.
- Developed using my main language being C# with .NET.
+# Portfólio | Felipe
+
+Projeto desenvolvido para mostrar trabalhos, meios de contato e projetos do GitHub.
+Desenvolvido em C# com .NET (versão local) e versão estática para deploy no Vercel.
+
+## Estrutura
+
+- **`Portifolio/`** – Projeto ASP.NET Core (desenvolvimento local: `dotnet run`)
+- **`public/`** – Site estático para deploy no **Vercel**
+
+## Deploy no Vercel
+
+Consulte **[DEPLOY.md](DEPLOY.md)** para instruções completas.
+
+1. Envie o repositório para o GitHub
+2. Conecte ao [Vercel](https://vercel.com/new)
+3. O `vercel.json` já está configurado (output: `public`)
+
+## Adicionar Projetos
+
+Edite `public/index.html` e duplique um bloco `<article class="project-card">`. Atualize:
+- **Imagem**: coloque o print em `public/images/` e altere o `src`
+- **Título, descrição, tags** e **link do GitHub**
